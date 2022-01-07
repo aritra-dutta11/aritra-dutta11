@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aritra Dutta
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Frontend Webdevelopment
+- 🌱 I’m currently learning Front-end Web development
 - 💞️ I’m looking to collaborate on projects under my domain
 - 📫 How to reach me ...
 
