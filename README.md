@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Aritra Dutta
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front-end Web development
+- 🌱 I’m currently learning Full-Stack Web development
 - 💞️ I’m looking to collaborate on projects under my domain
-- 📫 How to reach me ...
+- 📫 Contact me on Email: aritra.dutta.11052002@gmail.com or Phone: +91 9875380964
 
 <!---
 aritra-dutta11/aritra-dutta11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
